@@ -5,6 +5,8 @@ public class P {
         System.out.println(11);
         System.out.println(1112);
         System.out.println(111112);
+        System.out.println(11);
+        System.out.println(1112);
     }
 
 }
